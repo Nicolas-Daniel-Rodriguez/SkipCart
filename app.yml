@@ -1,0 +1,7 @@
+type: web
+name: Skip Cart
+description: This app allows you to skip the shopping cart review step to have better sales conversions.
+template_paths:
+  - templates/
+layout_urls:
+  checkout: checkout.tpl
